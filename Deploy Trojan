@@ -1,1 +1,1 @@
-
+curl -O https://raw.githubusercontent.com/xxxbrian/trojan.sh/main/trojan.sh && chmod +x trojan.sh && ./trojan.sh
